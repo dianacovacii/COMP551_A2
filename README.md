@@ -31,7 +31,6 @@ COMP551_A2/
 - Python 3.8+  
 - pip (Python package manager)  
 - VS Code or any Python IDE/terminal  
-- Required Python packages listed in `requirements.txt`
 
 ## Installation & Setup
 
