@@ -11,7 +11,6 @@ This project investigates the behavior of Linear Regression under varying levels
 ```
 COMP551_A2/
 ├── code.ipynb        # Main script with experiments (run in VS Code)
-├── requirements.txt  # Dependencies
 ├── writeup.pdf       # Project report
 └── README.md         # Project documentation
 ```
